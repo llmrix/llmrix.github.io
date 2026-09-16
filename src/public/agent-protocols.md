@@ -1,3 +1,11 @@
+---
+title: "Agent 间通信协议：MCP、A2A、ACP 与 ANP 介绍与对比"
+category: Agents
+date: 2026-09-15 00:00:00
+tags: [Agent, MCP, A2A, 通信协议]
+summary: "系统介绍并对比 MCP、A2A、ACP、ANP 等主流 Agent 通信协议，帮助你在多智能体系统中做出正确的选型决策。"
+---
+
 # Agent 间通信协议：MCP、A2A、ACP 与 ANP 介绍与对比
 
 ---

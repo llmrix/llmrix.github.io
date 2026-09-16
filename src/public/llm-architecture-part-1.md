@@ -1,3 +1,11 @@
+---
+title: "大模型架构演进（一）：并行代替顺序，Transformer 如何终结 RNN"
+category: Architecture
+date: 2026-09-15 00:00:00
+tags: [Transformer, RNN, Attention, 架构演进]
+summary: "以架构演变史为主线，讲清 Transformer 如何取代 RNN、GPT 与 BERT 的分叉，以及 Decoder-only 为何最终一统江湖。"
+---
+
 # 大模型架构演进（一）：并行代替顺序，Transformer 如何终结 RNN
 
 > 以演变史为主线，通俗讲清每一次架构变化背后的"为什么"。

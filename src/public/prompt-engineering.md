@@ -1,3 +1,11 @@
+---
+title: "Prompt Engineering 工程化"
+category: Prompt Engineering
+date: 2026-09-15 00:00:00
+tags: [Prompt, 提示词, 工程化, LLM]
+summary: "把 Prompt 当作软件工程问题：指令设计、Few-shot、Chain-of-Thought、版本管理与测试监控的完整实践。"
+---
+
 # Prompt Engineering 工程化
 
 ## 目录
